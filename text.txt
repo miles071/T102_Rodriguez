@@ -1,1 +1,0 @@
-Enter the first number: Enter the second number: Enter the third number: 3000 RPM divide 60 secs multiply 360 degrees is 18000 degrees per second
